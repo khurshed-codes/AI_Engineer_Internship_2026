@@ -24,7 +24,7 @@ def st_average(students):
 		print(f"{name} \nAverage: {avg}\nGrade: {grade}\nStatus:{status}")
 	print("-----------")
 	cl_avg=sum1/len(students)
-	print(f"Class Average: {cl_avg}\nTop Student: {top_st}\n Students 		Passed: {ctr}")
+	print(f"Class Average: {cl_avg}\nTop Student: {top_st}\n Students Passed: {ctr}")
 		
 students = {
     "Rahul": [78, 85, 92, 67, 74],
